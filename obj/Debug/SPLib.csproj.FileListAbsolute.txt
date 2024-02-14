@@ -1,0 +1,6 @@
+E:\MVVM\SPLib\bin\Debug\SPLib.dll
+E:\MVVM\SPLib\bin\Debug\SPLib.pdb
+E:\MVVM\SPLib\obj\Debug\SPLib.csproj.AssemblyReference.cache
+E:\MVVM\SPLib\obj\Debug\SPLib.csproj.CoreCompileInputs.cache
+E:\MVVM\SPLib\obj\Debug\SPLib.dll
+E:\MVVM\SPLib\obj\Debug\SPLib.pdb
